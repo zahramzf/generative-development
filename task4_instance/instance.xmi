@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:hw1="http://www.example.org/hw1">
+  <hw1:Customer Name="Zahra Mozaffarian" photos="/2"/>
+  <hw1:Singer/>
+  <hw1:Photos Location="London"/>
+</xmi:XMI>

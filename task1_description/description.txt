@@ -1,0 +1,10 @@
+In this project, UML diagrams and modelling are going to be conducted about the wedding organizer system which manages
+everything related to weddings for customers. They offer music, meals, and photography facilities which Customers can set 
+everything with them in an online way. When customers want to reserve a wedding with them, they must use the meals and music 
+band of the organization but using photography offer is completely optional. As the capacity of this organization is limited, 
+they can only reserve a maximum of 65 and minimum 10 meals for the wedding and 50 photo shots.Also there is only one music band
+that customers can use. before sumitting request they should login or sign up to the system and then they can go through the payment.
+After submitting the request,they have only 48 hours to edit their request or 24 hours to cancel the order and ask for a refund.
+When they want to request a refund,they must write the reason of cancelation. This organization has different stakeholders such as customers, photographers, 
+chefs (as staff), managers and the banking system. Chefs can access the meals part to manage available meals, photographers access
+to the photos section and singers to the music section. Also, they can access the submission part to see the requests of customers. 
